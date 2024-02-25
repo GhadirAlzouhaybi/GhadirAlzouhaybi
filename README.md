@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ghadir</h1>
 <h3 align="center">Computer Science student</h3>
-
+<img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScTDj_3c-P5J5IwYVwNQLjlKJ7b0XS67uqsT449jCroeUQyaibeBj4A7SzwlA2RFno3qo&usqp=CAU" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghadiralzouhaybi&label=Profile%20views&color=0e75b6&style=flat" alt="ghadiralzouhaybi" /> </p>
 
 - 🌱 I’m currently learning **Angular,.Net(c#)**
